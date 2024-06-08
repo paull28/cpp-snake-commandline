@@ -1,5 +1,5 @@
 ﻿# cpp-snake-commandline
-This is a commandline version of the game snake.
+This is a commandline version of the game snake. Very simple logic serving as an initial C++ project.
 
 ## Controls
 - a: left
